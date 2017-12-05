@@ -16,4 +16,4 @@ galaxy_info:
 dependencies:
   - { role: "seanw7.build-essential" }
   - { role: "seanw7.git" }
-  - { role: "azavea.mercurial" }
+  - { role: "seanw7.mercurial" }
